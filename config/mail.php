@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'from' => ['address' => 'bardhylbegolli@gmail.com', 'name' => 'Bardhyl'],
+    'from' => ['address' => 'tms@gmail.com', 'name' => 'Tasks Management System'],
 
     /*
     |--------------------------------------------------------------------------
