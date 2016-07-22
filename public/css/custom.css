@@ -1,0 +1,85 @@
+.m-0 {
+    margin: 0px !important;
+}
+
+.m-l-0 {
+    margin-left: 0px;
+}
+
+.m-r-0 {
+    margin-right: 0px;
+}
+
+.m-b-10 {
+    margin-bottom: 10px !important;
+}
+
+.m-b-5 {
+    margin-bottom: 5px !important;
+}
+
+.m-t-10 {
+    margin-top: 10px;
+}
+
+.m-t-5 {
+    margin-top: 5px;
+}
+
+.p-b-10 {
+    padding-bottom: 10px;
+}
+
+.p-b-5 {
+    padding-bottom: 5px;
+}
+
+.p-t-10 {
+    padding-top: 10px;
+}
+
+.p-t-5 {
+    padding-top: 5px;
+}
+
+.border-b-1 {
+    border-bottom: 1px solid #ddd;
+}
+
+.border-t-1 {
+    border-top: 1px solid #ddd;
+}
+
+.font-s-18 {
+    font-size: 18px;
+}
+
+.task-modal {
+    position: relative;
+    left: -50%;
+    background: white;
+    padding: 20px 15px;
+    border-radius: 10px;
+}
+.close-btn {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    font-size: 24px;
+}
+
+.task-modal-wrapper {
+    background-color:rgba(0,0,0,0.5); 
+    width:100% !important; 
+    height:100%; 
+    z-index:3; 
+    position:absolute; 
+    top:0px; 
+    left:0px;
+    display: none;
+}
+
+.active {
+    font-weight: bold;
+    outline: 5px auto -webkit-focus-ring-color;
+}
