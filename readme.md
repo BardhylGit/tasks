@@ -4,7 +4,7 @@
 * Create a MySQL DB, 
     * db_name: ```task_management``` 
     * db_pass: ``` null```
-    * // if you want to change DB configuration you have to do it on ```.env``` file
+    * // if you want to change DB configuration you should do it on ```.env``` file
 * Run ```php artisan migrate```
 * Run ```php artisan db:seed --class=UsersTableSeeder```
 
